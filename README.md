@@ -1,7 +1,5 @@
 # Booking System
 
-Client-server booking application
-
 This is my project for the MIP course (Tema 2). It's a client-server booking application.
 
 ## Structure
